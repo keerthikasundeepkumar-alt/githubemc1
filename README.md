@@ -16,20 +16,21 @@ pip install SpeechRecognition
 pip install sounddevice
 pip install scipy
 ```
-##🚀How to Run:
+## 🚀How to Run:
+
 1.clone the repo:
 git clone https://github.com/keerthikasundeepkumar-alt/githubemc1.git
+
 2.folder:
 cd githubemc1
+
 3.start the assistant:
 python main.py
 
-Example Commands:
+## Example Commands:
 .Greetings: "Hello", "Hi", "Hey"
 .Time & Date: "What time is it?", "Today's date"
 .Websites: "Open YouTube", "Open Google"
 Exit: "Exit", "Stop", "Bye"
 
-
-click here to watch the video: 
-(https://www.linkedin.com/posts/keerthika-sundeepkumar-195ab4316_python-datascience-codingproject-ugcPost-7445742864724164608-vNlx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBArwEBn8CQ7bXWwbuJ5sKJOlh7BY8mYw)
+[Click here to watch the video!](https://www.linkedin.com/posts/keerthika-sundeepkumar-195ab4316_python-datascience-codingproject-ugcPost-7445742864724164608-vNlx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBArwEBn8CQ7bXWwbuJ5sKJOlh7BY8mYw)
