@@ -33,4 +33,4 @@ python main.py
 .Websites: "Open YouTube", "Open Google"
 Exit: "Exit", "Stop", "Bye"
 
-[Click here to watch the video!](https://www.linkedin.com/posts/keerthika-sundeepkumar-195ab4316_python-datascience-codingproject-ugcPost-7445742864724164608-vNlx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBArwEBn8CQ7bXWwbuJ5sKJOlh7BY8mYw)
+[Click here to watch the Video Demo on LinkedIn!](https://www.linkedin.com/posts/keerthika-sundeepkumar-195ab4316_python-datascience-codingproject-activity-7445743320774942720-QaQs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBArwEBn0CQ7bXWiwbuJSsKJ0h7BY8BmYw)
